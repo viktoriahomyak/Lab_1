@@ -3,18 +3,64 @@ body{
 	padding: 0px;
 }
 #id_header{
-height: 150px;
-background:#999999;
+	background:#999999;
+	text-align: center;
+	padding-top: 66px;
+	padding-bottom: 66px;
 }
 .fold{
-height: 550px;
-background:#ffccaa;
-margin: auto;
+	background:#ffccaa;
+	text-align: center;
+	padding-top: 266px;
+	padding-bottom: 266px;
 }
 #id_footer{
-	height: 150px;
 	background:#4d4d4d;
-	margin:center;
-	padding: 200px;
-
+	padding-top: 106px;
+	padding-bottom: 106px;
+	text-align: center;
+}
+.div1{
+	background:#ffaaaa;
+	text-align: center;
+	padding-top: 56px;
+	padding-bottom: 56px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.div2{
+	background:#37c8ab;
+	text-align: center;
+	padding-top: 96px;
+	padding-bottom: 96px;
+	}	
+.div3{
+	background:#ffb380;
+	text-align: center;
+	padding-top: 96px;
+	padding-bottom: 96px;
+	}
+.div4{
+	background:#5599ff;
+	text-align: center;
+	float: left;
+	width: 350px;
+	margin-left: 50px;
+	margin-right: 250px;
+	padding-top: 170px;
+	padding-bottom: 170px;
+}
+.div5{
+	background:#5599ff;
+	text-align: center;
+	width: 550px;
+	float: left;
+	padding-top: 170px;
+	padding-bottom: 170px;
+}
+.div6{
+	background:#ffaaaa;
+	text-align: center;
+	padding-top: 300px;
+	padding-bottom: 300px;
 }
